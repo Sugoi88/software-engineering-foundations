@@ -1,0 +1,3 @@
+User: admin | Event: failed_login | Severity: HIGH
+User: morgan | Event: login_success | Severity: LOW
+User: root | Event: failed_login | Severity: MEDIUM
